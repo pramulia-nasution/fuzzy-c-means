@@ -7,9 +7,7 @@ Cara Pemakaian:
 <li>Buat database dengan nama sesuai yang tertera di file.</li>
 <li>import databse </li>
 <li>selesai !! </li>
- <ol>
-
-<b>akun</b></br>
+<ol>
 username: admin@gmail.com </br>
 password : admin </br>
 
